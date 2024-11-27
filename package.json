@@ -1,0 +1,17 @@
+{
+  "name": "newrepodata",
+  "version": "1.0.0",
+  "description": "Aplicacion_de_Gestores_IT-EVENT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "node": "^20.18.1"
+  }
+}
